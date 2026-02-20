@@ -38,7 +38,7 @@ You only need Python 3 installed.
 From the project folder, run:
 ```bash
 python main.py
-
+```
 The program runs entirely in the terminal and guides the user step by step.
 
 ---
@@ -68,4 +68,5 @@ The project contains only two files:
 - Does not simulate laps or real race dynamics
 - Not a realistic motorsport model
 - No team standings
+
 - Designed for learning purposes only
